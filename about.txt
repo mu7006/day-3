@@ -1,1 +1,3 @@
 Here is a text file where I want to add some information about me!
+
+I was born in the Netherland and also spent 8 months in Alaska!
